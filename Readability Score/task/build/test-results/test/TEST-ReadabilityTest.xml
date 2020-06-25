@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-21T19:46:51" hostname="/0:0:0:0:0:0:0:1%lo" time="0.11">
+  <properties/>
+  <testcase name="start" classname="ReadabilityTest" time="0.11"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+The text is:
+
+Words: 108
+Sentences: 6
+Characters: 580
+The score is: 12.864444444444445
+This text should be understood by 18-24 year olds.
+?[1;31m
+Start test 2?[0m
+The text is:
+
+Words: 100
+Sentences: 10
+Characters: 476
+The score is: 5.989599999999999
+This text should be understood by 11-12 year olds.
+?[1;31m
+Start test 3?[0m
+The text is:
+
+Words: 180
+Sentences: 13
+Characters: 982
+The score is: 11.188743589743588
+This text should be understood by 17-18 year olds.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

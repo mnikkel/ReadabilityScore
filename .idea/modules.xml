@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Are siblings?/Problems-Are_siblings_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Are siblings?/Problems-Are_siblings_.iml" group="Readability_Score1/Problems-Are_siblings_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Are siblings?/Problems-Are_siblings__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Are siblings?/Problems-Are_siblings__main.iml" group="Readability_Score1/Problems-Are_siblings_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Are siblings?/Problems-Are_siblings__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Are siblings?/Problems-Are_siblings__test.iml" group="Readability_Score1/Problems-Are_siblings_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" group="Readability_Score1/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" group="Readability_Score1/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" group="Readability_Score1/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow.iml" group="Readability_Score1/Problems-Pow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_main.iml" group="Readability_Score1/Problems-Pow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_test.iml" group="Readability_Score1/Problems-Pow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation.iml" group="Readability_Score1/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_main.iml" group="Readability_Score1/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_test.iml" group="Readability_Score1/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" group="Readability_Score1/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" group="Readability_Score1/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" group="Readability_Score1/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score1.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score1.iml" group="Readability_Score1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Readability_Score1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Readability_Score1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Readability_Score1/util" />
+    </modules>
+  </component>
+</project>
