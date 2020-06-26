@@ -23,35 +23,25 @@ public class Main {
             var scan = new Scanner(System.in);
             String score = scan.nextLine();
             int age;
-            switch (score) {
-                case "ARI":
-                    age = ages((int) Math.ceil(text.ari));
-                    System.out.printf("Automated Readability Index: %f (about %d year olds)%n", text.ari, age);
-                    break;
-                case "FK":
-                    age = ages((int) Math.ceil(text.fk));
-                    System.out.printf("Flesch–Kincaid readability tests: %f (about %d year olds)%n", text.fk, age);
-                    break;
-                case "SMOG":
-                    age = ages((int) Math.ceil(text.smog));
-                    System.out.printf("Simple Measure of Gobbledygook: %f (about %d year olds)%n", text.smog, age);
-                    break;
-                case "CL":
-                    age = ages((int) Math.ceil(text.cl));
-                    System.out.printf("Coleman–Liau index: %f (about %d year olds)%n", text.cl, age);
-                    break;
-                case "all":
-                    age = ages((int) Math.ceil(text.ari));
-                    System.out.printf("Automated Readability Index: %f (about %d year olds)%n", text.ari, age);
-                    age = ages((int) Math.ceil(text.fk));
-                    System.out.printf("Flesch–Kincaid readability tests: %f (about %d year olds)%n", text.fk, age);
-                    age = ages((int) Math.ceil(text.smog));
-                    System.out.printf("Simple Measure of Gobbledygook: %f (about %d year olds)%n", text.smog, age);
-                    age = ages((int) Math.ceil(text.cl));
-                    System.out.printf("Coleman–Liau index: %f (about %d year olds)%n", text.cl, age);
-                    break;
-                default:
-                    System.out.println("Unknown test");
+            boolean all = score.equals("all");
+            if (score.equals("ARI") || all) {
+                age = ages((int) Math.ceil(text.ari));
+                System.out.printf("Automated Readability Index: %f (about %d year olds)%n", text.ari, age);
+            }
+
+            if (score.equals("FK") || all) {
+                age = ages((int) Math.ceil(text.fk));
+                System.out.printf("Flesch–Kincaid readability tests: %f (about %d year olds)%n", text.fk, age);
+            }
+
+            if (score.equals("SMOG") || all) {
+                age = ages((int) Math.ceil(text.smog));
+                System.out.printf("Simple Measure of Gobbledygook: %f (about %d year olds)%n", text.smog, age);
+            }
+
+            if (score.equals("CL") || all) {
+                age = ages((int) Math.ceil(text.cl));
+                System.out.printf("Coleman–Liau index: %f (about %d year olds)%n", text.cl, age);
             }
         } catch (Exception e) {
             System.out.println(e.getMessage());
